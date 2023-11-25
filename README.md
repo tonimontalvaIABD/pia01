@@ -4,6 +4,6 @@
 - [x] Crear un archivo holamundo en Python.
 
 ## Apartado 2:
-- [ ] Conectar con la comunidad en redes sociales.
+- [x] Conectar con la comunidad en redes sociales.
 - [x] Seguir a [Comunidad Spain AI](https://www.linkedin.com/company/spainai/?originalSubdomain=es)
-- [ ] Crear una lista de profesionales en el ámbito de la IA y seguirles.
+- [x] Seguir a profesionales o empresas del ámbito de la IA.
